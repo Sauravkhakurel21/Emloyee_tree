@@ -1,0 +1,136 @@
+C:\Users\SaranshBhatta\source\repos\EmployeeProject\EmployeeProject\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\SaranshBhatta\source\repos\EmployeeProject\EmployeeProject\bin\Debug\net6.0\appsettings.json
+C:\Users\SaranshBhatta\source\repos\EmployeeProject\EmployeeProject\bin\Debug\net6.0\EmployeeProject.exe
+C:\Users\SaranshBhatta\source\repos\EmployeeProject\EmployeeProject\bin\Debug\net6.0\EmployeeProject.deps.json
+C:\Users\SaranshBhatta\source\repos\EmployeeProject\EmployeeProject\bin\Debug\net6.0\EmployeeProject.runtimeconfig.json
+C:\Users\SaranshBhatta\source\repos\EmployeeProject\EmployeeProject\bin\Debug\net6.0\EmployeeProject.dll
+C:\Users\SaranshBhatta\source\repos\EmployeeProject\EmployeeProject\bin\Debug\net6.0\EmployeeProject.pdb
+C:\Users\SaranshBhatta\source\repos\EmployeeProject\EmployeeProject\bin\Debug\net6.0\Dapper.dll
+C:\Users\SaranshBhatta\source\repos\EmployeeProject\EmployeeProject\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\SaranshBhatta\source\repos\EmployeeProject\EmployeeProject\bin\Debug\net6.0\Npgsql.dll
+C:\Users\SaranshBhatta\source\repos\EmployeeProject\EmployeeProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\SaranshBhatta\source\repos\EmployeeProject\EmployeeProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\SaranshBhatta\source\repos\EmployeeProject\EmployeeProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\SaranshBhatta\source\repos\EmployeeProject\EmployeeProject\obj\Debug\net6.0\EmployeeProject.csproj.AssemblyReference.cache
+C:\Users\SaranshBhatta\source\repos\EmployeeProject\EmployeeProject\obj\Debug\net6.0\EmployeeProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SaranshBhatta\source\repos\EmployeeProject\EmployeeProject\obj\Debug\net6.0\EmployeeProject.AssemblyInfoInputs.cache
+C:\Users\SaranshBhatta\source\repos\EmployeeProject\EmployeeProject\obj\Debug\net6.0\EmployeeProject.AssemblyInfo.cs
+C:\Users\SaranshBhatta\source\repos\EmployeeProject\EmployeeProject\obj\Debug\net6.0\EmployeeProject.csproj.CoreCompileInputs.cache
+C:\Users\SaranshBhatta\source\repos\EmployeeProject\EmployeeProject\obj\Debug\net6.0\EmployeeProject.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\SaranshBhatta\source\repos\EmployeeProject\EmployeeProject\obj\Debug\net6.0\EmployeeProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SaranshBhatta\source\repos\EmployeeProject\EmployeeProject\obj\Debug\net6.0\staticwebassets\msbuild.EmployeeProject.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\SaranshBhatta\source\repos\EmployeeProject\EmployeeProject\obj\Debug\net6.0\staticwebassets\msbuild.build.EmployeeProject.props
+C:\Users\SaranshBhatta\source\repos\EmployeeProject\EmployeeProject\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.EmployeeProject.props
+C:\Users\SaranshBhatta\source\repos\EmployeeProject\EmployeeProject\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.EmployeeProject.props
+C:\Users\SaranshBhatta\source\repos\EmployeeProject\EmployeeProject\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\SaranshBhatta\source\repos\EmployeeProject\EmployeeProject\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\SaranshBhatta\source\repos\EmployeeProject\EmployeeProject\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\SaranshBhatta\source\repos\EmployeeProject\EmployeeProject\obj\Debug\net6.0\scopedcss\bundle\EmployeeProject.styles.css
+C:\Users\SaranshBhatta\source\repos\EmployeeProject\EmployeeProject\obj\Debug\net6.0\EmployeeProject.csproj.CopyComplete
+C:\Users\SaranshBhatta\source\repos\EmployeeProject\EmployeeProject\obj\Debug\net6.0\EmployeeProject.dll
+C:\Users\SaranshBhatta\source\repos\EmployeeProject\EmployeeProject\obj\Debug\net6.0\refint\EmployeeProject.dll
+C:\Users\SaranshBhatta\source\repos\EmployeeProject\EmployeeProject\obj\Debug\net6.0\EmployeeProject.pdb
+C:\Users\SaranshBhatta\source\repos\EmployeeProject\EmployeeProject\obj\Debug\net6.0\EmployeeProject.genruntimeconfig.cache
+C:\Users\SaranshBhatta\source\repos\EmployeeProject\EmployeeProject\obj\Debug\net6.0\ref\EmployeeProject.dll
+C:\Users\Asus\Desktop\EmployeeProject\EmployeeProject\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Asus\Desktop\EmployeeProject\EmployeeProject\bin\Debug\net6.0\appsettings.json
+C:\Users\Asus\Desktop\EmployeeProject\EmployeeProject\bin\Debug\net6.0\EmployeeProject.exe
+C:\Users\Asus\Desktop\EmployeeProject\EmployeeProject\bin\Debug\net6.0\EmployeeProject.deps.json
+C:\Users\Asus\Desktop\EmployeeProject\EmployeeProject\bin\Debug\net6.0\EmployeeProject.runtimeconfig.json
+C:\Users\Asus\Desktop\EmployeeProject\EmployeeProject\bin\Debug\net6.0\EmployeeProject.dll
+C:\Users\Asus\Desktop\EmployeeProject\EmployeeProject\bin\Debug\net6.0\EmployeeProject.pdb
+C:\Users\Asus\Desktop\EmployeeProject\EmployeeProject\bin\Debug\net6.0\Dapper.dll
+C:\Users\Asus\Desktop\EmployeeProject\EmployeeProject\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Asus\Desktop\EmployeeProject\EmployeeProject\bin\Debug\net6.0\Npgsql.dll
+C:\Users\Asus\Desktop\EmployeeProject\EmployeeProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Asus\Desktop\EmployeeProject\EmployeeProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Asus\Desktop\EmployeeProject\EmployeeProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Asus\Desktop\EmployeeProject\EmployeeProject\obj\Debug\net6.0\EmployeeProject.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\EmployeeProject\EmployeeProject\obj\Debug\net6.0\EmployeeProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\EmployeeProject\EmployeeProject\obj\Debug\net6.0\EmployeeProject.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\EmployeeProject\EmployeeProject\obj\Debug\net6.0\EmployeeProject.AssemblyInfo.cs
+C:\Users\Asus\Desktop\EmployeeProject\EmployeeProject\obj\Debug\net6.0\EmployeeProject.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\EmployeeProject\EmployeeProject\obj\Debug\net6.0\EmployeeProject.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Asus\Desktop\EmployeeProject\EmployeeProject\obj\Debug\net6.0\EmployeeProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Asus\Desktop\EmployeeProject\EmployeeProject\obj\Debug\net6.0\staticwebassets\msbuild.EmployeeProject.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Asus\Desktop\EmployeeProject\EmployeeProject\obj\Debug\net6.0\staticwebassets\msbuild.build.EmployeeProject.props
+C:\Users\Asus\Desktop\EmployeeProject\EmployeeProject\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.EmployeeProject.props
+C:\Users\Asus\Desktop\EmployeeProject\EmployeeProject\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.EmployeeProject.props
+C:\Users\Asus\Desktop\EmployeeProject\EmployeeProject\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Asus\Desktop\EmployeeProject\EmployeeProject\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Asus\Desktop\EmployeeProject\EmployeeProject\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Asus\Desktop\EmployeeProject\EmployeeProject\obj\Debug\net6.0\scopedcss\bundle\EmployeeProject.styles.css
+C:\Users\Asus\Desktop\EmployeeProject\EmployeeProject\obj\Debug\net6.0\EmployeeProject.csproj.CopyComplete
+C:\Users\Asus\Desktop\EmployeeProject\EmployeeProject\obj\Debug\net6.0\EmployeeProject.dll
+C:\Users\Asus\Desktop\EmployeeProject\EmployeeProject\obj\Debug\net6.0\refint\EmployeeProject.dll
+C:\Users\Asus\Desktop\EmployeeProject\EmployeeProject\obj\Debug\net6.0\EmployeeProject.pdb
+C:\Users\Asus\Desktop\EmployeeProject\EmployeeProject\obj\Debug\net6.0\EmployeeProject.genruntimeconfig.cache
+C:\Users\Asus\Desktop\EmployeeProject\EmployeeProject\obj\Debug\net6.0\ref\EmployeeProject.dll
+E:\Pana projects\EmployeeProject\EmployeeProject\bin\Debug\net6.0\appsettings.Development.json
+E:\Pana projects\EmployeeProject\EmployeeProject\bin\Debug\net6.0\appsettings.json
+E:\Pana projects\EmployeeProject\EmployeeProject\bin\Debug\net6.0\EmployeeProject.exe
+E:\Pana projects\EmployeeProject\EmployeeProject\bin\Debug\net6.0\EmployeeProject.deps.json
+E:\Pana projects\EmployeeProject\EmployeeProject\bin\Debug\net6.0\EmployeeProject.runtimeconfig.json
+E:\Pana projects\EmployeeProject\EmployeeProject\bin\Debug\net6.0\EmployeeProject.dll
+E:\Pana projects\EmployeeProject\EmployeeProject\bin\Debug\net6.0\EmployeeProject.pdb
+E:\Pana projects\EmployeeProject\EmployeeProject\bin\Debug\net6.0\Dapper.dll
+E:\Pana projects\EmployeeProject\EmployeeProject\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\Pana projects\EmployeeProject\EmployeeProject\bin\Debug\net6.0\Npgsql.dll
+E:\Pana projects\EmployeeProject\EmployeeProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Pana projects\EmployeeProject\EmployeeProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Pana projects\EmployeeProject\EmployeeProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Pana projects\EmployeeProject\EmployeeProject\obj\Debug\net6.0\EmployeeProject.csproj.AssemblyReference.cache
+E:\Pana projects\EmployeeProject\EmployeeProject\obj\Debug\net6.0\EmployeeProject.GeneratedMSBuildEditorConfig.editorconfig
+E:\Pana projects\EmployeeProject\EmployeeProject\obj\Debug\net6.0\EmployeeProject.AssemblyInfoInputs.cache
+E:\Pana projects\EmployeeProject\EmployeeProject\obj\Debug\net6.0\EmployeeProject.AssemblyInfo.cs
+E:\Pana projects\EmployeeProject\EmployeeProject\obj\Debug\net6.0\EmployeeProject.csproj.CoreCompileInputs.cache
+E:\Pana projects\EmployeeProject\EmployeeProject\obj\Debug\net6.0\EmployeeProject.MvcApplicationPartsAssemblyInfo.cs
+E:\Pana projects\EmployeeProject\EmployeeProject\obj\Debug\net6.0\EmployeeProject.MvcApplicationPartsAssemblyInfo.cache
+E:\Pana projects\EmployeeProject\EmployeeProject\obj\Debug\net6.0\staticwebassets\msbuild.EmployeeProject.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Pana projects\EmployeeProject\EmployeeProject\obj\Debug\net6.0\staticwebassets\msbuild.build.EmployeeProject.props
+E:\Pana projects\EmployeeProject\EmployeeProject\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.EmployeeProject.props
+E:\Pana projects\EmployeeProject\EmployeeProject\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.EmployeeProject.props
+E:\Pana projects\EmployeeProject\EmployeeProject\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Pana projects\EmployeeProject\EmployeeProject\obj\Debug\net6.0\staticwebassets.build.json
+E:\Pana projects\EmployeeProject\EmployeeProject\obj\Debug\net6.0\staticwebassets.development.json
+E:\Pana projects\EmployeeProject\EmployeeProject\obj\Debug\net6.0\scopedcss\bundle\EmployeeProject.styles.css
+E:\Pana projects\EmployeeProject\EmployeeProject\obj\Debug\net6.0\EmployeeProject.csproj.CopyComplete
+E:\Pana projects\EmployeeProject\EmployeeProject\obj\Debug\net6.0\EmployeeProject.dll
+E:\Pana projects\EmployeeProject\EmployeeProject\obj\Debug\net6.0\refint\EmployeeProject.dll
+E:\Pana projects\EmployeeProject\EmployeeProject\obj\Debug\net6.0\EmployeeProject.pdb
+E:\Pana projects\EmployeeProject\EmployeeProject\obj\Debug\net6.0\EmployeeProject.genruntimeconfig.cache
+E:\Pana projects\EmployeeProject\EmployeeProject\obj\Debug\net6.0\ref\EmployeeProject.dll
+C:\Users\Asus\Desktop\EmpoyeeTreeView\EmployeeProject Backend\EmployeeProject\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Asus\Desktop\EmpoyeeTreeView\EmployeeProject Backend\EmployeeProject\bin\Debug\net6.0\appsettings.json
+C:\Users\Asus\Desktop\EmpoyeeTreeView\EmployeeProject Backend\EmployeeProject\bin\Debug\net6.0\EmployeeProject.exe
+C:\Users\Asus\Desktop\EmpoyeeTreeView\EmployeeProject Backend\EmployeeProject\bin\Debug\net6.0\EmployeeProject.deps.json
+C:\Users\Asus\Desktop\EmpoyeeTreeView\EmployeeProject Backend\EmployeeProject\bin\Debug\net6.0\EmployeeProject.runtimeconfig.json
+C:\Users\Asus\Desktop\EmpoyeeTreeView\EmployeeProject Backend\EmployeeProject\bin\Debug\net6.0\EmployeeProject.dll
+C:\Users\Asus\Desktop\EmpoyeeTreeView\EmployeeProject Backend\EmployeeProject\bin\Debug\net6.0\EmployeeProject.pdb
+C:\Users\Asus\Desktop\EmpoyeeTreeView\EmployeeProject Backend\EmployeeProject\bin\Debug\net6.0\Dapper.dll
+C:\Users\Asus\Desktop\EmpoyeeTreeView\EmployeeProject Backend\EmployeeProject\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Asus\Desktop\EmpoyeeTreeView\EmployeeProject Backend\EmployeeProject\bin\Debug\net6.0\Npgsql.dll
+C:\Users\Asus\Desktop\EmpoyeeTreeView\EmployeeProject Backend\EmployeeProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Asus\Desktop\EmpoyeeTreeView\EmployeeProject Backend\EmployeeProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Asus\Desktop\EmpoyeeTreeView\EmployeeProject Backend\EmployeeProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Asus\Desktop\EmpoyeeTreeView\EmployeeProject Backend\EmployeeProject\obj\Debug\net6.0\EmployeeProject.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\EmpoyeeTreeView\EmployeeProject Backend\EmployeeProject\obj\Debug\net6.0\EmployeeProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\EmpoyeeTreeView\EmployeeProject Backend\EmployeeProject\obj\Debug\net6.0\EmployeeProject.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\EmpoyeeTreeView\EmployeeProject Backend\EmployeeProject\obj\Debug\net6.0\EmployeeProject.AssemblyInfo.cs
+C:\Users\Asus\Desktop\EmpoyeeTreeView\EmployeeProject Backend\EmployeeProject\obj\Debug\net6.0\EmployeeProject.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\EmpoyeeTreeView\EmployeeProject Backend\EmployeeProject\obj\Debug\net6.0\EmployeeProject.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Asus\Desktop\EmpoyeeTreeView\EmployeeProject Backend\EmployeeProject\obj\Debug\net6.0\EmployeeProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Asus\Desktop\EmpoyeeTreeView\EmployeeProject Backend\EmployeeProject\obj\Debug\net6.0\staticwebassets\msbuild.EmployeeProject.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Asus\Desktop\EmpoyeeTreeView\EmployeeProject Backend\EmployeeProject\obj\Debug\net6.0\staticwebassets\msbuild.build.EmployeeProject.props
+C:\Users\Asus\Desktop\EmpoyeeTreeView\EmployeeProject Backend\EmployeeProject\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.EmployeeProject.props
+C:\Users\Asus\Desktop\EmpoyeeTreeView\EmployeeProject Backend\EmployeeProject\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.EmployeeProject.props
+C:\Users\Asus\Desktop\EmpoyeeTreeView\EmployeeProject Backend\EmployeeProject\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Asus\Desktop\EmpoyeeTreeView\EmployeeProject Backend\EmployeeProject\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Asus\Desktop\EmpoyeeTreeView\EmployeeProject Backend\EmployeeProject\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Asus\Desktop\EmpoyeeTreeView\EmployeeProject Backend\EmployeeProject\obj\Debug\net6.0\scopedcss\bundle\EmployeeProject.styles.css
+C:\Users\Asus\Desktop\EmpoyeeTreeView\EmployeeProject Backend\EmployeeProject\obj\Debug\net6.0\EmployeeProject.csproj.CopyComplete
+C:\Users\Asus\Desktop\EmpoyeeTreeView\EmployeeProject Backend\EmployeeProject\obj\Debug\net6.0\EmployeeProject.dll
+C:\Users\Asus\Desktop\EmpoyeeTreeView\EmployeeProject Backend\EmployeeProject\obj\Debug\net6.0\refint\EmployeeProject.dll
+C:\Users\Asus\Desktop\EmpoyeeTreeView\EmployeeProject Backend\EmployeeProject\obj\Debug\net6.0\EmployeeProject.pdb
+C:\Users\Asus\Desktop\EmpoyeeTreeView\EmployeeProject Backend\EmployeeProject\obj\Debug\net6.0\EmployeeProject.genruntimeconfig.cache
+C:\Users\Asus\Desktop\EmpoyeeTreeView\EmployeeProject Backend\EmployeeProject\obj\Debug\net6.0\ref\EmployeeProject.dll

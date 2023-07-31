@@ -1,0 +1,116 @@
+
+
+.table-heading{
+    border: 1px solid black;
+    border-radius: 5px;
+    background-color: #555555;
+    color: white;
+}
+.table-border{
+    border: 1px solid black;
+    border-radius:5px ;
+}
+
+ .table-data{
+    border: 1px solid #393E46;
+    background-color: #FFFF;
+    border-radius: 5px;
+
+} 
+
+td {
+    text-align: center;
+}
+
+.form-container{
+    display: flex;
+    flex-direction: row;
+}
+
+.form-c{
+    position: absolute;
+        width: 60%;
+        height: 100vh;
+        left: 5%;
+        top: 5%;
+}
+
+.tree-view{
+    position: absolute;
+    width: 40%;
+    height: 100vh;
+    right: 10%;
+    top:5%;
+}
+
+.image-display{
+    width:50px;
+    height: auto;
+}
+
+.del-btn{
+    background-color: #f7231f;
+    color: white;
+    width: 55px;
+        height: 25px;
+        border-radius: 5px;
+        margin-left: 3px;
+}
+.add-btn {
+    background-color: #BBBBBB;
+    color: #222831;
+    width: 70px;
+    height: 25px;
+    border-radius: 5px;
+}
+.edit-btn {
+    background-color: #008CBA;
+    color: white;
+    width: 55px;
+    height: 25px;
+    border-radius: 5px;
+}
+
+.submit-btn{
+    background-color: #BBBBBB;
+    color: black;
+    width: 100px;
+    height: 35px;
+    margin-top: 1em;
+    font-size: larger;
+    border-radius: 5px;
+}
+
+.submit-delete-btn {
+    background-color: #f7231f;
+    color: white;
+    width: 100px;
+    height: 35px;
+    margin-top: 1em;
+    font-size: larger;
+    border-radius: 5px;
+}
+
+.input-field{
+    border-radius: 5px;
+    width: 180px;
+    height: 25px;
+    background-color: rgb(236, 234, 234);    
+}
+
+.input-label{
+    font-size: large;
+    
+}
+
+@media (max-width: 700px) {
+    .form-container {
+        flex-direction: column;
+    }
+
+    /* .form-container {
+        position: relative;
+        left: 20%;
+        top: 20%;
+    } */
+}
