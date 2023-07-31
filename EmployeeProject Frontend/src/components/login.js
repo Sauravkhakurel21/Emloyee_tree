@@ -59,6 +59,8 @@ function loginForm() {
     console.log(eid, "eid");
     dispatch(deleteAllDetails(eid));
     dispatch(employeeReset());
+    setdeletebtn("false");
+    setSubmitButtonName("Submit");
   }
 
   return (
